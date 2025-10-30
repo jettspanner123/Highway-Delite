@@ -4,4 +4,5 @@ export interface ExperienceDisplayType {
     description: string;
     pricing: number;
     image: string;
+    about: string;
 }
